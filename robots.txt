@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://strizhov.pro/sitemap.xml
